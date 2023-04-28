@@ -67,7 +67,7 @@ setup(
     install_requires=[
         "transformers ~= 4.2",
         "seaborn ~= 0.11",
-        "scikit-learn~=0.23",
+        "scikit-learn~=1.0.2",
         "PyYAML~=5.4",
         "captum ~= 0.4"
     ],
